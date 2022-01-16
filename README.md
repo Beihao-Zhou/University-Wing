@@ -27,3 +27,5 @@ The front-end part of this full-stack web app is developed using React.js and Ne
 
 ## What's next for University Wing
 Currently, this web app only allows the authorized users, i.e. university representatives to access the content management system, meaning that they have to collect information from many students of different backgrounds. Obviously, writing these posts may impose great workload on these university representatives; therefore, I may develop the login and sign up features, and allow users to post in the University Wing themselves. As a result, we only need to review posts rather than edit them ourselves, which not only reduces our stress, but also brings more valuable content to the platform.
+
+## Video Pitch[https://youtu.be/C5ZHTzCoomY]
